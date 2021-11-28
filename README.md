@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://github.com/AhmetEmreGumusok/kodluyoruzilkrepo)
 
-![Kod Sayfası Resim](screenshot_1.png)
+![Kod Sayfası Resim](Screenshot_1.png)
